@@ -2,8 +2,6 @@ const gameRows = 6;
 const gameColumns = 7;
 let currentPlayer = 'red';
 let gameOver = false;
-let redsScore;
-let yellowsScore;
 
 initializeBoard();
 initializeGame();
